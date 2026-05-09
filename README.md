@@ -40,3 +40,4 @@ Ce projet est fourni à des fins éducatives et de sécurité personnelle.
 Note sur la sécurité : Mon application n'est pas encore "signée" numériquement auprès de Microsoft (ce qui coûte très cher). Lors de l'installation, Windows affichera une alerte. C'est une procédure standard pour 
 
 les nouveaux logiciels indépendants. Vous pouvez vérifier le code source ici-même pour vous assurer de l'absence de code malveillant.
+Voici le lien du téléchargement de l'installateur : https://github.com/nekogaby6/pygard-site/releases
